@@ -6,7 +6,7 @@
 
 Второй учебник по Скале на русском: http://twitter.github.io/effectivescala/index-ru.html
 
-Второй учебник по Скале на русском: https://github.com/anton-k/ru-neophyte-guide-to-scala
+Третий учебник по Скале на русском: https://github.com/anton-k/ru-neophyte-guide-to-scala
 
 Курс по функциональному программированию на Скале для слоупоков: https://www.coursera.org/course/progfun
 
